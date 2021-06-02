@@ -1,0 +1,6 @@
+000001 Hello
+000002 
+000003 World
+000004       boy, what a wonky input
+000005 this is.
+EOF
